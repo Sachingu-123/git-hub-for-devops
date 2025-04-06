@@ -1,0 +1,16 @@
+git init
+dir
+git status
+
+git add Demo.java
+git status
+git rm --cached 'Demo.java'
+git status
+git add Demo.java
+git statuc
+git status
+git commit -m "added demo file"
+git status
+rm Demo.java
+git status
+git restore Demo.java
